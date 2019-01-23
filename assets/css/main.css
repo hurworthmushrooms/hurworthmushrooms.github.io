@@ -3152,6 +3152,7 @@ input, select, textarea {
 			top: 0;
 			width: 6em;
 			z-index: 10000;
+            
 		}
 
 			#sidebar .toggle:before {
@@ -3164,7 +3165,8 @@ input, select, textarea {
 			}
 
 			#sidebar .toggle:before {
-				content: '\f0c9';
+				
+                content: '\f0c9';
 				font-size: 2rem;
 				height: inherit;
 				left: 0;
